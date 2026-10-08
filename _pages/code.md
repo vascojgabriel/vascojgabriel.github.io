@@ -43,8 +43,4 @@ Replication dataset for the emerging-economy DSGE model with limited asset-marke
 
 [Journal article and supporting information](https://doi.org/10.1111/jmcb.12935). The publisher hosts supplemental tables; these should not be described as a full replication repository.
 
-## Projects for which public code links are not yet verified
-
-The sanctions DSGE, Canada tariff pass-through, dynamic-CCE terms-of-trade panel, heterogeneous-proxy SVAR/LP-IV, persistent-cycles QML and Portugal–euro area DSGE projects have active codebases, but I do not link to a repository until its public address and release status are confirmed. Code under preparation or shared privately with coauthors is not represented here as downloadable.
-
 [Publications and papers]({{ '/publications/' | relative_url }})
