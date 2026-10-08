@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-**[Download the merged and updated academic CV (PDF)]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})**
+**[Download academic CV (PDF)]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})**
 
 ## Academic appointments
 
@@ -18,7 +18,7 @@ nav_order: 5
 
 ## Academic leadership
 
-- **Chair, Department of Economics, University of Victoria**, since 2021.
+- **Chair, Department of Economics, University of Victoria**, 2021-2026.
 - **Head of School, School of Economics, University of Surrey**, 2013–15.
 - **Co-director, Centre for International Macroeconomic Studies (CIMS), University of Surrey**, 2010–20.
 - **Director of Learning and Teaching, University of Surrey**, 2018–19.
