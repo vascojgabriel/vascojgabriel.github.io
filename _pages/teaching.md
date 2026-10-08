@@ -1,15 +1,37 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+I teach econometrics, macroeconomics, economic history, and advanced courses in dynamic macroeconomic modelling and empirical methods. I have taught at the University of Victoria, the University of Surrey, and in short courses for graduate students and policy economists.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## University of Victoria
 
-{% include courses.liquid %}
+The teaching record below is drawn from my 2026 CV. It lists **courses previously taught**, not a claim about my current term's timetable.
+
+| Course | Academic sessions listed in CV |
+| --- | --- |
+| **ECON 365 — Econometrics: Part I** | Fall 2022, Fall 2023, Fall 2025 |
+| **ECON 327 — Economic History of North America** | Spring 2024, Summer 2024 |
+| **ECON 246** | Fall 2025 |
+| **ECON 350** | Fall 2025 |
+| **ECON 495 — Directed Studies** | Fall 2023, Fall 2024, Fall 2025 |
+
+## Graduate and professional training
+
+- **Modern Tools for Empirical Macroeconomics**, Loughborough University (2025).
+- **Open Economy DSGE Modelling with Applications to Emerging Economies**, City, University of London (2022–23).
+- **CIMS Summer School on DSGE Modelling** (2012–21).
+- **CIMS Easter School on DSGE Modelling for Emerging Economies** (2015–20).
+- **DSGE Modelling and Estimation**, Bank of Portugal (2016–18).
+- **Workshop on DSGE Modelling**, National Institute of Public Finance and Policy, India (2010).
+- Guest Professor, University of São Paulo (since 2020, as recorded in CV).
+
+## Research supervision
+
+I have supervised doctoral, master's, and undergraduate research across econometrics, macroeconomics, finance, and related fields. My 2026 CV contains the full record, including completed doctoral supervision at Surrey and supervision at Victoria.
+
+[Full CV, including supervision and examining]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})
