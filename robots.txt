@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vascojgabriel.github.io/al-folio/sitemap.xml
+Sitemap: https://vascojgabriel.github.io/sitemap.xml
