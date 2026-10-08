@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code & data
+title: code & data
 permalink: /code/
 nav: true
 nav_order: 6
@@ -22,11 +22,22 @@ Replication dataset for the emerging-economy DSGE model with limited asset-marke
 
 [**Mendeley Data: replication package (version 2)**](https://data.mendeley.com/datasets/yv263k5cmv/2) · [Dataset DOI](https://doi.org/10.17632/yv263k5cmv.2) · [Published article](https://doi.org/10.1016/j.econmod.2024.106946)
 
+### Taking the Highway or the Green Road? Conditional Temperature Forecasts under Alternative SSP Scenarios
+*With Anthoulla Phella and Luis F. Martins.*
+
+**Full replication package:** MATLAB scripts and processed datasets for unconditional and SSP-conditional temperature forecasts, counterfactual exercises, and forecast evaluation. The repository provides scripts (`mainForecast.m`, `mainForecastCounterfactual.m`, `ForecastEvaluation.m`, `PathwaysPlotting.m`), Excel datasets, and support functions. Its README maps the code to paper figures and tables.
+
+[**GitHub: data and MATLAB replication code**](https://github.com/vascojgabriel/replication-package-conditional-temperature-forecasts) · [Published article](https://doi.org/10.1016/j.ijforecast.2026.04.010) · [Open manuscript](https://arxiv.org/abs/2509.09384)
+
 ## Other publicly available research resources
 
 ### Climate change: across time and frequencies
 
 [Public working paper](https://doi.org/10.48550/arXiv.2509.21334). This is a manuscript link, **not** a claim that replication code is publicly deposited.
+
+### Predicting Tail Risks and the Evolution of Temperatures (*Energy Economics*, 2024)
+
+[Open accepted manuscript (Glasgow)](https://eprints.gla.ac.uk/317750/) · [Open manuscript (ISCTE)](https://repositorio.iscte-iul.pt/handle/10071/33347) · [Published article](https://doi.org/10.1016/j.eneco.2023.107286). **A public paper-specific replication-code/data archive has not been verified.** These are manuscript links, not a claim of available code.
 
 ### Institutional arrangements and inflation bias
 
