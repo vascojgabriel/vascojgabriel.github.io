@@ -2,24 +2,38 @@
 layout: page
 title: code & data
 permalink: /code/
-nav: false
-nav_order: 5
+nav: true
+nav_order: 6
 ---
 
-## Code and replication resources
+## Public replication packages
 
-My research uses MATLAB, Dynare, and Python for structural macroeconomic modelling, econometric estimation, simulation, and data analysis. Replication links are provided on individual paper pages or here when the associated materials are publicly available.
+### Idle Monetary Policy? Evidence from Monetary Policy Shocks for Pakistan
+*With M. Ali Choudhary.*
 
-### Monetary policy identification and instrumental-variable methods
+Meeting-level narrative-shock construction and quarterly local-projection analysis of monetary transmission in Pakistan. The open package provides the estimated narrative shock, quarterly macro-financial data, Python estimation files and Stata scripts. **Some underlying State Bank of Pakistan real-time forecasts are proprietary and not redistributed**; the downstream replication material remains available.
 
-Work on proxy-SVAR, local projections, model averaging, and diagnostics for weak and heterogeneous instruments.
+[**Mendeley Data: dataset and code (version 2)**](https://data.mendeley.com/datasets/bn868kmhd5/2) · [Dataset DOI](https://doi.org/10.17632/bn868kmhd5.2) · [Published article](https://doi.org/10.1016/j.econlet.2026.113207)
 
-### Structural macroeconomic models
+### Monetary Growth Rules in an Emerging Open Economy
+*With Maryam Mirfatah and Paul Levine.*
 
-Projects using Bayesian DSGE models of small open economies, monetary policy, tariffs, sanctions, oil exports, and macroprudential policy.
+Replication dataset for the emerging-economy DSGE model with limited asset-market participation, informal production and alternative monetary-policy rules, associated with the *Economic Modelling* publication.
 
-### Climate and time-series econometrics
+[**Mendeley Data: replication package (version 2)**](https://data.mendeley.com/datasets/yv263k5cmv/2) · [Dataset DOI](https://doi.org/10.17632/yv263k5cmv.2) · [Published article](https://doi.org/10.1016/j.econmod.2024.106946)
 
-Research on common persistent cycles, long-run covariability, wavelet methods, and temperature forecasting.
+## Other publicly available research resources
 
-**Selected public papers and links** are available on the [Research]({{ '/research/' | relative_url }}) page. A GitHub repository link should be added here only once the relevant code has been made public.
+### Climate change: across time and frequencies
+
+[Public working paper](https://doi.org/10.48550/arXiv.2509.21334). This is a manuscript link, **not** a claim that replication code is publicly deposited.
+
+### Institutional arrangements and inflation bias
+
+[Journal article and supporting information](https://doi.org/10.1111/jmcb.12935). The publisher hosts supplemental tables; these should not be described as a full replication repository.
+
+## Projects for which public code links are not yet verified
+
+The sanctions DSGE, Canada tariff pass-through, dynamic-CCE terms-of-trade panel, heterogeneous-proxy SVAR/LP-IV, persistent-cycles QML and Portugal–euro area DSGE projects have active codebases, but I do not link to a repository until its public address and release status are confirmed. Code under preparation or shared privately with coauthors is not represented here as downloadable.
+
+[Publications and papers]({{ '/publications/' | relative_url }})

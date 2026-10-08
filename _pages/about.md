@@ -8,12 +8,12 @@ subtitle: Professor of Economics, University of Victoria
 
 profile:
   align: right
-  image: # Add prof_pic.jpg here only after uploading an authorized photo to assets/img/
+  image:
   image_circular: false
   more_info: >
     <p>Department of Economics</p>
     <p>University of Victoria</p>
-    <p>Victoria, British Columbia, Canada</p>
+    <p>Victoria, BC, Canada</p>
 
 selected_papers: false
 social: true
@@ -23,12 +23,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a Professor of Economics at the [University of Victoria](https://www.uvic.ca/socialsciences/economics/). My research is in **econometrics and macroeconomics**, with interests spanning monetary economics, international macroeconomics, empirical finance, climate econometrics, and economic history.
+I am **Professor of Economics at the University of Victoria**, where I have served as **Chair of the Department of Economics since 2021**. My research focuses on econometrics and empirical macroeconomics, including monetary policy identification, DSGE modelling, international macroeconomics, empirical finance and climate econometrics.
 
-My current work develops and applies methods for identifying monetary policy shocks, studies the macroeconomic transmission of sanctions and trade restrictions, and examines persistent cycles and long-run relationships in economic and climate data. I also work on estimated dynamic stochastic general equilibrium (DSGE) models, monetary and macroprudential policy, and open-economy adjustment.
+Before moving to Victoria, I was at the **University of Surrey**, where I served as **Head of the School of Economics (2013–15)**, **Co-director of the Centre for International Macroeconomic Studies (2010–20)**, and **Director of Learning and Teaching (2018–19)**. My continuing research affiliations include the Bank of Portugal and NIPE at the University of Minho.
 
-Before joining Victoria in 2021, I was Reader in Economics at the University of Surrey. I have a PhD in Economics from the University of London (Birkbeck) and degrees in Applied Mathematics and Economics from Lisbon. I am affiliated with [NIPE at the University of Minho](https://www.nipe.eeg.uminho.pt/) and have a longstanding research association with the Bank of Portugal.
+My current projects investigate monetary policy shocks and identification with heterogeneous instruments; the macroeconomic transmission of sanctions and trade barriers; open-economy pricing and policy design; and persistent cycles in macroeconomic and paleoclimate series. I also work on economic history and the consequences of trade, disease and conflict.
 
-**Contact:** [vgabriel@uvic.ca](mailto:vgabriel@uvic.ca)  
-**Research:** [Current papers and projects]({{ '/research/' | relative_url }})  
-**CV:** [Download PDF]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})
+**Email:** [vgabriel@uvic.ca](mailto:vgabriel@uvic.ca)  
+**Links:** [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [Code & data]({{ '/code/' | relative_url }})
