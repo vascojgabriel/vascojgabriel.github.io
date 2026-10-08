@@ -20,6 +20,7 @@ See the [complete publication list with DOI links]({{ '/publications/' | relativ
 This paper constructs an empirical sanctions measurement system and estimates a small-open-economy DSGE model of Iran. A persistent sanctions state is disciplined by a quarterly chronology and auxiliary indices, while the structural model separates constraints on oil production, export access, usable oil revenue, imports and investment. Historical decompositions and counterfactuals distinguish the external resource shock from domestic transmission mechanisms.
 
 ### Estimating the Impact of Monetary Policy Shocks: A Model Averaging Approach
+*With Roshni Tara.*
 
 This project develops and compares estimators that combine external instruments for U.S. monetary policy shocks. Rather than pooling all instruments uncritically, the analysis considers economically distinct proxy families, heterogeneous information sets, weak-instrument diagnostics and robust inference in proxy-SVARs and local projections. An important objective is to distinguish gains from combining informative proxies from biases induced by invalid or heterogeneous instruments.
 
@@ -33,7 +34,8 @@ Continuous-wavelet methods characterize the evolving association between tempera
 
 This project investigates temperature forecasting with mode-informed machine learning and deep ReQU network architectures. It studies whether a flexible nonlinear forecasting framework better captures persistence and distributional features than conventional statistical alternatives. *Under review in the June 2026 CV; current status should be rechecked before publicizing a journal name.*
 
-### Down to the Last of the Mohicans: Disease, Trade and Conflict in the Great Lakes
+### Furs, Captives and Contested Trade: Conflict and Atlantic Markets in 17th Century North America
+*With Paul Levine and Neil Rickman.*
 
 An economic-history project examining the interaction between disease, trade networks and conflict in the North American Great Lakes region. It asks how changing epidemiological exposure and commercial incentives shaped competition and demographic outcomes, using historically grounded data and empirical modelling.
 
@@ -44,25 +46,24 @@ The project examines heterogeneous and asymmetric macroeconomic responses to unc
 
 ## Work in progress
 
-### Cost Push versus Expenditure Switching: Currency Pricing and the Design of Monetary Policy Rules
-*With Maryam Mirfatah and Paul Levine.*
-
-A structural open-economy model investigates how producer-currency, local-currency and dominant-currency pricing affect exchange-rate pass-through, expenditure switching and the design of monetary policy. Alternative pricing arrangements alter the inflation–output trade-off and the response to external shocks.
-
 ### Tariff Pass-Through and Monetary Policy in a Small Open Economy
+*With Maryam Mirfatah.*
 
 An estimated Canada–rest-of-world DSGE framework is used to quantify the transmission of Canadian and U.S. tariffs through imported-goods, retail and consumer prices. Policy experiments isolate the implications of systematic monetary reactions, currency pricing conventions and observed historical tariff paths.
 
 ### Terms of Trade, Import Prices and External Adjustment in Macro Panels
+*With Forough Ghadamyari.*
 
 A large-country-panel empirical counterpart to models of terms-of-trade and import-price adjustment. Dynamic common-correlated-effects methods allow heterogeneous responses and common unobserved factors; the project contrasts long-run panel relations, heterogeneous dynamics and implications for open-economy business-cycle models.
 
 ### Persistent Cycles, Long-Run Covariability and Macroeconomic Fluctuations
+*With Luis F. Martins and Anthoulla Phella.*
 
 The project studies econometric representations of persistent cycles, identification and long-horizon co-movement in macroeconomic and paleoclimate data. It compares cyclical alternatives and state-space or quasi-maximum-likelihood estimation with flexible damped autoregressive benchmarks, emphasizing sensitivity to near-ties and uncertainty about the number of cycles.
 
 
 ### Portugal–Euro Area DSGE Modelling and Macroprudential Policy
+*With Paul Levine, Diana Lima, Duarte Maia and Maryam Mirfatah.*
 
 A two-bloc Portugal–euro area DSGE programme, including housing, financial frictions and macroprudential interactions. It combines structural modelling with estimation and policy experiments to assess domestic responses to euro-area disturbances.
 
