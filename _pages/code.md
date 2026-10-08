@@ -1,6 +1,6 @@
 ---
 layout: page
-title: code & data
+title: Code & data
 permalink: /code/
 nav: true
 nav_order: 6
