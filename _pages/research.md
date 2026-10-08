@@ -8,7 +8,11 @@ nav_order: 2
 
 My research combines econometric methods, structural macroeconomic modelling and empirical applications. The descriptions below summarize research manuscripts and projects in progress; they are not necessarily final published abstracts. Statuses reflect the manuscripts and project discussions available as of October 2026.
 
-## Research manuscripts
+## Publications
+
+See the [complete publication list with DOI links]({{ '/publications/' | relative_url }}), and [publicly released code and data]({{ '/code/' | relative_url }}).
+
+## Manuscripts under review
 
 ### Measuring Sanctions and Their Macroeconomic Transmission
 *With Maryam Mirfatah.*
@@ -34,7 +38,7 @@ This project investigates temperature forecasting with mode-informed machine lea
 An economic-history project examining the interaction between disease, trade networks and conflict in the North American Great Lakes region. It asks how changing epidemiological exposure and commercial incentives shaped competition and demographic outcomes, using historically grounded data and empirical modelling.
 
 ### Asymmetric Effects of Uncertainty Shocks: A FAIR Approach
-*With Hyejin Park.*
+*With Hyejin Park and Mohamed Zahran.*
 
 The project examines heterogeneous and asymmetric macroeconomic responses to uncertainty shocks using flexible inference methods. The goal is to establish whether shocks of different sign or size propagate differently and how much conventional linear methods conceal this heterogeneity.
 
@@ -57,19 +61,10 @@ A large-country-panel empirical counterpart to models of terms-of-trade and impo
 
 The project studies econometric representations of persistent cycles, identification and long-horizon co-movement in macroeconomic and paleoclimate data. It compares cyclical alternatives and state-space or quasi-maximum-likelihood estimation with flexible damped autoregressive benchmarks, emphasizing sensitivity to near-ties and uncertainty about the number of cycles.
 
-### Monetary Policy Transmission in Canada and Mexico
-*With Omar Boye.*
-
-A comparative analysis of how U.S. monetary policy affects two North American economies with differing financial and institutional environments. The aim is to disentangle foreign policy shocks from domestic amplification, real activity and exchange-rate transmission.
 
 ### Portugal–Euro Area DSGE Modelling and Macroprudential Policy
 
 A two-bloc Portugal–euro area DSGE programme, including housing, financial frictions and macroprudential interactions. It combines structural modelling with estimation and policy experiments to assess domestic responses to euro-area disturbances.
 
-### Additional methodological work
 
-Ongoing work includes monetary policy shock aggregation and impulse-response averaging, robustness of instrument-based estimators, and the macroeconomics of productivity and technology. These are research programmes rather than distinct publicly posted manuscripts at present.
 
-## Publications
-
-See the [complete publication list with DOI links]({{ '/publications/' | relative_url }}), and [publicly released code and data]({{ '/code/' | relative_url }}).
