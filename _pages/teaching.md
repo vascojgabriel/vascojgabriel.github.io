@@ -10,15 +10,13 @@ I teach econometrics, macroeconomics, economic history, and advanced courses in 
 
 ## University of Victoria
 
-The teaching record below is drawn from my 2026 CV. It lists **courses previously taught**, not a claim about my current term's timetable.
-
-| Course | Academic sessions listed in CV |
+| Course | Academic sessions |
 | --- | --- |
 | **ECON 365 — Econometrics: Part I** | Fall 2022, Fall 2023, Fall 2025 |
 | **ECON 327 — Economic History of North America** | Spring 2024, Summer 2024 |
 | **ECON 246** | Fall 2025 |
 | **ECON 350** | Fall 2025 |
-| **ECON 495 — Directed Studies** | Fall 2023, Fall 2024, Fall 2025 |
+| **ECON 495 — Bank of Canada Governor's Challenge** | Fall 2023, Fall 2024, Fall 2025 |
 
 ## Graduate and professional training
 
@@ -28,7 +26,7 @@ The teaching record below is drawn from my 2026 CV. It lists **courses previousl
 - **CIMS Easter School on DSGE Modelling for Emerging Economies** (2015–20).
 - **DSGE Modelling and Estimation**, Bank of Portugal (2016–18).
 - **Workshop on DSGE Modelling**, National Institute of Public Finance and Policy, India (2010).
-- Guest Professor, University of São Paulo (since 2020, as recorded in CV).
+- Guest Professor, University of São Paulo (since 2020).
 
 ## Research supervision
 
