@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am **Professor of Economics at the University of Victoria**, where I have served as **Chair of the Department of Economics since 2021**. My research focuses on econometrics and empirical macroeconomics, including monetary policy identification, DSGE modelling, international macroeconomics, empirical finance and climate econometrics.
+I am **Professor of Economics at the University of Victoria**, where I have served as **Chair of the Department of Economics between 2021 and 2026**. My research focuses on econometrics and empirical macroeconomics, including monetary policy identification, DSGE modelling, international macroeconomics, empirical finance and climate econometrics. I also dabble in economic history.
 
 Before moving to Victoria, I was at the **University of Surrey**, where I served as **Head of the School of Economics (2013–15)**, **Co-director of the Centre for International Macroeconomic Studies (2010–20)**, and **Director of Learning and Teaching (2018–19)**. My continuing research affiliations include the Bank of Portugal and NIPE at the University of Minho.
 
