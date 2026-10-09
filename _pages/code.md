@@ -8,7 +8,7 @@ nav_order: 6
 
 ## Public replication packages
 
-GitHub links marked **replication archive** point to ZIP files that have been uploaded publicly. Their contents and the ability to reproduce the papers’ calculations have not yet been independently tested. The forecasting project, by contrast, exposes its MATLAB scripts and data directly in the repository.
+GitHub links marked **replication archive** point to ZIP files that have been uploaded publicly. Their contents and the ability to reproduce the papers’ calculations have not yet been independently tested. 
 
 ### Idle Monetary Policy? Evidence from Monetary Policy Shocks for Pakistan
 *With M. Ali Choudhary.*
@@ -76,7 +76,7 @@ A downloadable ZIP associated with the identification-robust cost-channel commen
 ### An Estimated DSGE Model of the Indian Economy
 *The Oxford Handbook of the Indian Economy* (2012).
 
-A downloadable ZIP associated with the 2012 Indian-economy DSGE chapter (not automatically attributable to the different 2016 chapter).
+A downloadable ZIP associated with the 2012 Indian-economy DSGE chapter.
 
 **[Replication archive (GitHub)](https://github.com/vascojgabriel/An-Estimated-DSGE-Model-of-the-Indian-Economy)** · [Download ZIP](https://raw.githubusercontent.com/vascojgabriel/An-Estimated-DSGE-Model-of-the-Indian-Economy/main/India.zip)
 
@@ -94,10 +94,5 @@ The [inflation-bias supplementary tables](https://doi.org/10.1111/jmcb.12935), [
 
 The sanctions DSGE, Canada tariff pass-through, dynamic-CCE terms-of-trade panel, heterogeneous-proxy SVAR/LP-IV, persistent-cycles QML and Portugal–euro area DSGE projects have active codebases, but I do not link to a repository until its public address and release status are confirmed. Code under preparation or shared privately with coauthors is not represented here as downloadable.
 
-## GitHub repositories
-
-[**Browse all repositories on my GitHub profile**](https://github.com/vascojgabriel?tab=repositories).
-
-The profile also contains **forks of other researchers' software**, teaching examples and repositories still under preparation. Those should not be treated as original replication packages for my publications simply because they appear on my account.
 
 [Publications and papers]({{ '/publications/' | relative_url }})
