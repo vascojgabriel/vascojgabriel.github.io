@@ -19,11 +19,6 @@ See the [complete publication list with DOI links]({{ '/publications/' | relativ
 
 This paper constructs an empirical sanctions measurement system and estimates a small-open-economy DSGE model of Iran. A persistent sanctions state is disciplined by a quarterly chronology and auxiliary indices, while the structural model separates constraints on oil production, export access, usable oil revenue, imports and investment. Historical decompositions and counterfactuals distinguish the external resource shock from domestic transmission mechanisms.
 
-### Estimating the Impact of Monetary Policy Shocks: A Model Averaging Approach
-*With Roshni Tara.*
-
-This project develops and compares estimators that combine external instruments for U.S. monetary policy shocks. Rather than pooling all instruments uncritically, the analysis considers economically distinct proxy families, heterogeneous information sets, weak-instrument diagnostics and robust inference in proxy-SVARs and local projections. An important objective is to distinguish gains from combining informative proxies from biases induced by invalid or heterogeneous instruments.
-
 ### Climate Change: Across Time and Frequencies
 *With Luís Aguiar-Conraria, Luis F. Martins and Anthoulla Phella.*
 
@@ -34,6 +29,13 @@ Continuous-wavelet methods characterize the evolving association between tempera
 
 This project investigates temperature forecasting with mode-informed machine learning and deep ReQU network architectures. It studies whether a flexible nonlinear forecasting framework better captures persistence and distributional features than conventional statistical alternatives. *Under review in the June 2026 CV; current status should be rechecked before publicizing a journal name.*
 
+## Work in progress
+
+### Estimating the Impact of Monetary Policy Shocks: A Model Averaging Approach
+*With Roshni Tara.*
+
+This project develops and compares estimators that combine external instruments for U.S. monetary policy shocks. Rather than pooling all instruments uncritically, the analysis considers economically distinct proxy families, heterogeneous information sets, weak-instrument diagnostics and robust inference in proxy-SVARs and local projections. An important objective is to distinguish gains from combining informative proxies from biases induced by invalid or heterogeneous instruments.
+
 ### Furs, Captives and Contested Trade: Conflict and Atlantic Markets in 17th Century North America
 *With Paul Levine and Neil Rickman.*
 
@@ -43,8 +45,6 @@ An economic-history project examining the interaction between disease, trade net
 *With Hyejin Park and Mohamed Zahran.*
 
 The project examines heterogeneous and asymmetric macroeconomic responses to uncertainty shocks using flexible inference methods. The goal is to establish whether shocks of different sign or size propagate differently and how much conventional linear methods conceal this heterogeneity.
-
-## Work in progress
 
 ### Tariff Pass-Through and Monetary Policy in a Small Open Economy
 *With Maryam Mirfatah.*
