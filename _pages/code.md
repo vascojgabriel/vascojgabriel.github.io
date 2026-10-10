@@ -8,7 +8,7 @@ nav_order: 6
 
 ## Public replication packages
 
-GitHub links marked **replication archive** point to ZIP files that have been uploaded publicly. Their contents and the ability to reproduce the papers’ calculations have not yet been independently tested. 
+
 
 ### Idle Monetary Policy? Evidence from Monetary Policy Shocks for Pakistan
 *With M. Ali Choudhary.*
@@ -80,19 +80,10 @@ A downloadable ZIP associated with the 2012 Indian-economy DSGE chapter.
 
 **[Replication archive (GitHub)](https://github.com/vascojgabriel/An-Estimated-DSGE-Model-of-the-Indian-Economy)** · [Download ZIP](https://raw.githubusercontent.com/vascojgabriel/An-Estimated-DSGE-Model-of-the-Indian-Economy/main/India.zip)
 
-## Additional research resources and documentation
-
-### Climate change: across time and frequencies
-
-[Public working paper](https://doi.org/10.48550/arXiv.2509.21334). This is a manuscript link, **not** a claim that replication code is publicly deposited.
 
 ### Publisher and institutional supplements
 
 The [inflation-bias supplementary tables](https://doi.org/10.1111/jmcb.12935), [partial-dollarization appendix](https://doi.org/10.1111/roie.12639), and [field-experiment supplementary record](https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Individual-incentives-and-workers-contracts-Evidence/99511486302346) are available in addition to the paper-specific GitHub archives linked above.
-
-## Projects for which public code links are not yet verified
-
-The sanctions DSGE, Canada tariff pass-through, dynamic-CCE terms-of-trade panel, heterogeneous-proxy SVAR/LP-IV, persistent-cycles QML and Portugal–euro area DSGE projects have active codebases, but I do not link to a repository until its public address and release status are confirmed. Code under preparation or shared privately with coauthors is not represented here as downloadable.
 
 
 [Publications and papers]({{ '/publications/' | relative_url }})
