@@ -24,10 +24,6 @@ This paper constructs an empirical sanctions measurement system and estimates a 
 
 Continuous-wavelet methods characterize the evolving association between temperatures and natural and anthropogenic forcings at different frequencies. The empirical results indicate that greenhouse gases, especially CO₂, are important for long-run temperature trends, while shorter-run relationships vary across historical periods. [Preprint](https://doi.org/10.48550/arXiv.2509.21334).
 
-### Deep ReQU Mode-Informed Learning for Global Temperature Forecasting
-*With Tao Wang.*
-
-This project investigates temperature forecasting with mode-informed machine learning and deep ReQU network architectures. It studies whether a flexible nonlinear forecasting framework better captures persistence and distributional features than conventional statistical alternatives. *Under review in the June 2026 CV; current status should be rechecked before publicizing a journal name.*
 
 ## Work in progress
 
