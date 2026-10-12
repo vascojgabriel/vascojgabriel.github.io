@@ -64,7 +64,7 @@ The project studies econometric representations of persistent cycles, identifica
 A two-bloc Portugal–euro area DSGE programme, including housing, financial frictions and macroprudential interactions. It combines structural modelling with estimation and policy experiments to assess domestic responses to euro-area disturbances.
 
 ## Musicology
-Alongside my work in economics, I pursue an independent research programme on the musical and cultural legacy of the Rosado Pinto family, particularly Celestino and Maria Adelaide Rosado Pinto, and their contribution to musical life in Setúbal, Portugal.
+Alongside my work in economics, I pursue an independent research program on the musical and cultural legacy of the Rosado Pinto family, particularly Celestino and Maria Adelaide Rosado Pinto, and their contribution to musical life in Setúbal, Portugal.
 
 The programme combines archival research, music bibliography, and historical musicology. Current work focuses on documenting and cataloguing dispersed collections, developing a bilingual digital inventory, and investigating the survival, publication, circulation, and reception of musical and ethnographic sources. 
 
