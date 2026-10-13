@@ -43,7 +43,6 @@ An economic-history project examining the interaction between disease, trade net
 The project examines heterogeneous and asymmetric macroeconomic responses to uncertainty shocks using flexible inference methods. The goal is to establish whether shocks of different sign or size propagate differently and how much conventional linear methods conceal this heterogeneity.
 
 ### Tariff Pass-Through and Monetary Policy in a Small Open Economy
-*With Maryam Mirfatah.*
 
 An estimated Canada–rest-of-world DSGE framework is used to quantify the transmission of Canadian and U.S. tariffs through imported-goods, retail and consumer prices. Policy experiments isolate the implications of systematic monetary reactions, currency pricing conventions and observed historical tariff paths.
 
