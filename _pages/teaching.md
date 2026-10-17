@@ -76,4 +76,4 @@ I have supervised doctoral, master's and undergraduate research projects, includ
 
 **Faculty of Arts and Human Sciences Teaching Prize**, University of Surrey, 2012–13.
 
-<div class="photo-credit" aria-label="Photo: Fonte do Sapal, Setúbal">Photo: Fonte do Sapal, Setúbal</div>
+<div class="gafaria-caption" aria-label="Photo: Fonte do Sapal, Setúbal">Photo: Fonte do Sapal, Setúbal</div>
