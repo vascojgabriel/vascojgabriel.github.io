@@ -30,7 +30,8 @@ html[data-theme="dark"] body {
     ),
     url("{{ '/assets/img/stacatarina.jpg' | relative_url }}");
 }
-/* Photograph caption: kept above the fixed bottom footer */
+
+/* Photograph caption — same styling as About */
 .gafaria-caption {
   position: fixed !important;
   right: 16px !important;
@@ -55,6 +56,7 @@ html[data-theme="dark"] body {
     font-size: 11px;
   }
 }
+
 </style>
 
 My research combines econometric methods, structural macroeconomic modelling and empirical applications. The descriptions below summarize research manuscripts and projects in progress; they are not necessarily final published abstracts. 
@@ -118,5 +120,5 @@ Alongside my work in economics, I pursue an independent research program on the 
 
 The programme combines archival research, music bibliography, and historical musicology. Current work focuses on documenting and cataloguing dispersed collections, developing a bilingual digital inventory, and investigating the survival, publication, circulation, and reception of musical and ethnographic sources. 
 
-<div class="gafaria-caption" aria-label="Photo: Rua de Santa Catarina, Setúbal">Photo: Rua de Santa Catarina, Setúbal</div>
+<div class="gafaria-caption">Photo: Rua de Santa Catarina, Setúbal</div>
 
