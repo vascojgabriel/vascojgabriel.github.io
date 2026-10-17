@@ -81,5 +81,5 @@ My current projects investigate monetary policy shocks and identification with h
 **Email:** [vgabriel@uvic.ca](mailto:vgabriel@uvic.ca)  
 **Links:** [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [Code & data]({{ '/code/' | relative_url }})
 
-<div class="gafaria-caption" aria-label="Vanitas, vanitatum et omnia vanitas: Portal da Gafaria, Setúbal">Portal da Gafaria, Setúbal</div>
+<div class="gafaria-caption" aria-label="Vanitas, vanitatum et omnia vanitas: Portal da Gafaria, Setúbal">Vanitas, vanitatum et omnia vanitas: Portal da Gafaria, Setúbal</div>
 
