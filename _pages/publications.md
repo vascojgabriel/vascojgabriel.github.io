@@ -109,3 +109,7 @@ Publication titles link to publisher records; replication and open-access materi
 - **[Central Banks as Bank Supervisors: How Does This Double Role Affect Their Inflation Outcomes?](https://www.suerf.org/wp-content/uploads/2023/12/f_6cea18e92877f11b15280b17416ac030_31889_suerf.pdf)** (with Ioannis Lazopoulos and Diana Lima). ***SUERF Policy Brief*** No. 172 (2021).
 
 [Research and working papers]({{ '/research/' | relative_url }}) · [Code and data]({{ '/code/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [All GitHub repositories](https://github.com/vascojgabriel?tab=repositories)
+
+
+<div class="photo-credit" aria-label="Photo: Casa das 4 Cabeças, Setúbal">Photo: Casa das 4 Cabeças, Setúbal</div>
+
