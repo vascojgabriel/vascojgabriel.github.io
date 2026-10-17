@@ -21,7 +21,8 @@ html[data-theme="dark"] body {
     linear-gradient(rgba(20,20,20,0.75), rgba(20,20,20,0.75)),
     url("{{ '/assets/img/sapal.jpg' | relative_url }}");
 }
-/* Photograph caption: kept above the fixed bottom footer */
+
+/* Photograph caption — same styling as About */
 .gafaria-caption {
   position: fixed !important;
   right: 16px !important;
@@ -46,6 +47,7 @@ html[data-theme="dark"] body {
     font-size: 11px;
   }
 }
+
 </style>
 
 I teach at undergraduate, master's and doctoral levels, particularly in econometrics, time-series and macroeconometric methods, macroeconomics, economic history and research methods. My previous teaching also includes financial econometrics, finance, statistics, mathematics and the history of economic thought.
@@ -76,4 +78,4 @@ I have supervised doctoral, master's and undergraduate research projects, includ
 
 **Faculty of Arts and Human Sciences Teaching Prize**, University of Surrey, 2012–13.
 
-<div class="gafaria-caption" aria-label="Photo: Fonte do Sapal, Setúbal">Photo: Fonte do Sapal, Setúbal</div>
+<div class="gafaria-caption">Photo: Fonte do Sapal, Setúbal</div>
