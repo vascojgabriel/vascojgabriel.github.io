@@ -10,12 +10,12 @@ nav_order: 4
 body {
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.8),
-      rgba(255, 255, 255, 0.8)
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
     ),
     url("{{ '/assets/img/sapal.jpg' | relative_url }}");
 
-  background-size: 100% 100%, cover;
+  background-size: 100% 100%, contain;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -25,8 +25,8 @@ body {
 html[data-theme="dark"] body {
   background-image:
     linear-gradient(
-      rgba(20, 20, 20, 0.8),
-      rgba(20, 20, 20, 0.8)
+      rgba(20, 20, 20, 0.75),
+      rgba(20, 20, 20, 0.75)
     ),
     url("{{ '/assets/img/sapal.jpg' | relative_url }}");
 }
