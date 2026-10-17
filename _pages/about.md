@@ -73,5 +73,5 @@ My current projects investigate monetary policy shocks and identification with h
 
 **Email:** [vgabriel@uvic.ca](mailto:vgabriel@uvic.ca)  
 **Links:** [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [Code & data]({{ '/code/' | relative_url }})
-<div class="photo-credit" aria-label="Photo: Portal da Gafaria, Setúbal">Gafaria</div>
+<div class="photo-credit" aria-label="Photo: Portal da Gafaria, Setúbal">Photo: Portal da Gafaria, Setúbal</div>
 
