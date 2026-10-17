@@ -7,22 +7,48 @@ nav_order: 3
 ---
 
 <style>
-body {
+/* Photograph with independently controlled dimensions */
+body::before {
+  content: "";
+  position: fixed;
+
+  /* Position of photograph */
+  top: 120px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  /* ACTUAL SIZE OF PHOTOGRAPH */
+  width: 700px;
+  max-width: 90vw;
+  height: 400px;
+
+  /* SHAPE OF PHOTOGRAPH */
+  border-radius: 20px;
+
+  /* Photograph and translucent overlay */
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
+      rgba(255, 255, 255, 0.65),
+      rgba(255, 255, 255, 0.65)
     ),
     url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
 
-  background-size: 100% 100%, contain;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+
+  pointer-events: none;
+  z-index: 0;
 }
 
-/* Background when dark mode is enabled */
-html[data-theme="dark"] body {
+/* Keep biography and other content in front */
+body > .container[role="main"] {
+  position: relative;
+  z-index: 1;
+}
+
+/* Dark mode */
+html[data-theme="dark"] body::before {
   background-image:
     linear-gradient(
       rgba(20, 20, 20, 0.75),
@@ -31,7 +57,6 @@ html[data-theme="dark"] body {
     url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
 }
 </style>
-
 
 Journal articles and book chapters. Links marked **Replication data/code** or **Replication archive** identify public research packages; archive contents and executable reproducibility have not necessarily been independently checked. 
 
