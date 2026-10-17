@@ -30,7 +30,8 @@ html[data-theme="dark"] body {
     ),
     url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
 }
-/* Photograph caption: kept above the fixed bottom footer */
+
+/* Photograph caption — same styling as About */
 .gafaria-caption {
   position: fixed !important;
   right: 16px !important;
@@ -55,6 +56,7 @@ html[data-theme="dark"] body {
     font-size: 11px;
   }
 }
+
 </style>
 Publication titles link to publisher records; replication and open-access materials are linked where available. 
 
@@ -119,5 +121,5 @@ Publication titles link to publisher records; replication and open-access materi
 [Research and working papers]({{ '/research/' | relative_url }}) · [Code and data]({{ '/code/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [All GitHub repositories](https://github.com/vascojgabriel?tab=repositories)
 
 
-<div class="gafaria-caption" aria-label="Photo: Casa das 4 Cabeças, Setúbal">Photo: Casa das 4 Cabeças, Setúbal</div>
+<div class="gafaria-caption">Photo: Casa das 4 Cabeças, Setúbal</div>
 
