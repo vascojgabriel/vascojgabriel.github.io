@@ -31,7 +31,7 @@ body {
     ),
     url("{{ '/assets/img/portela.jpg' | relative_url }}");
 
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
