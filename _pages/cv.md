@@ -9,68 +9,57 @@ nav_order: 5
 <style>
 body {
   background-image:
-    linear-gradient(
-      rgba(255, 255, 255, 0.8),
-      rgba(255, 255, 255, 0.8)
-    ),
+    linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)),
     url("{{ '/assets/img/academia.jpg' | relative_url }}");
-
   background-size: 100% 100%, cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
-/* Background when dark mode is enabled */
 html[data-theme="dark"] body {
   background-image:
-    linear-gradient(
-      rgba(20, 20, 20, 0.8),
-      rgba(20, 20, 20, 0.8)
-    ),
+    linear-gradient(rgba(20,20,20,0.8), rgba(20,20,20,0.8)),
     url("{{ '/assets/img/academia.jpg' | relative_url }}");
 }
+/* Ordinary caption element, not a pseudo-element */
+.photo-credit {
+  position: fixed;
+  right: 12px;
+  bottom: 50px;
+  z-index: 20;
+  font-size: 10px;
+  line-height: 1.2;
+  color: var(--global-text-color-light);
+  background: var(--global-bg-color);
+  opacity: .78;
+  padding: 2px 5px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+@media(max-width: 600px) { .photo-credit { bottom: 72px; right: 8px; } }
 </style>
 
-**[Download academic CV (PDF)]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})**
+**[Download full academic CV (PDF)]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})**
+
+I am Professor of Economics at the University of Victoria. My research covers econometrics, empirical macroeconomics, empirical finance and economic history.
 
 ## Academic appointments
 
-- **Professor of Economics**, University of Victoria, 2021–present.
-- **Reader in Economics**, University of Surrey, 2014–21.
-- **Senior Lecturer in Economics**, University of Surrey, 2010–14.
-- **Lecturer**, University of Surrey, 2004–10.
-- **Professor Auxiliar**, University of Minho, 2002–04.
+- **University of Victoria** — Professor of Economics, 2021–present.
+- **University of Surrey** — Reader in Economics, 2014–21; Senior Lecturer, 2010–14; Lecturer, 2004–10.
+- **University of Minho** — Professor Auxiliar, 2002–04.
 
 ## Academic leadership
 
-- **Chair, Department of Economics, University of Victoria**, 2021-2026.
-- **Head of School, School of Economics, University of Surrey**, 2013–15.
-- **Co-director, Centre for International Macroeconomic Studies (CIMS), University of Surrey**, 2010–20.
-- **Director of Learning and Teaching, University of Surrey**, 2018–19.
-- **Chair, Recruitment Committee, University of Surrey**, 2017–18.
-- **MSc Programmes Director and Admissions Tutor, University of Surrey**, 2007–13.
+- **University of Victoria** — Chair, Department of Economics, 2021–26.
+- **University of Surrey** — Head of School of Economics, 2013–15; Co-director, Centre for International Macroeconomic Studies, 2010–20; Director of Learning and Teaching, 2018–19.
 
 ## Education
 
-- **PhD Economics**, Birkbeck College, University of London (2002), *Long Run Relationships and Structural Change*.
-- **MSc Applied Mathematics (Econometrics)**, ISEG, Technical University of Lisbon (1998).
-- **Licenciatura / BSc Economics**, ISEG, Technical University of Lisbon (1995).
+- **PhD in Economics**, Birkbeck College, University of London, 2002.
+- **MSc in Econometrics**, ISEG, Technical University of Lisbon, 1998.
+- **Licenciatura in Economics**, ISEG, Technical University of Lisbon, 1995.
 
-## Research and professional service
+The full CV includes research appointments, grants, academic service, supervision and publications. See also [Research]({{ '/research/' | relative_url }}) and [Publications]({{ '/publications/' | relative_url }}).
 
-- Visiting Researcher, Department of Financial Stability, Bank of Portugal.
-- Visiting Fellow, NIPE, University of Minho.
-- Visiting Researcher, National Institute of Public Finance and Policy, India.
-- Associate Editor, *Notas Económicas*, since 2021.
-- External examiner at the London School of Economics, and previously at Manchester, Reading and Greenwich.
-- External expert and programme reviewer for A3ES; external reviews, editorial and conference activities detailed in the PDF.
-
-## Selected awards and funding
-
-- ESRC, £350,000, *Monetary and Fiscal Policy Rules with Labour Market and Financial Frictions* (co-investigator; 2011–13).
-- ESRC, £50,000, *An Empirical Reassessment of the New Keynesian Phillips Curve and Monetary Policy Rules* (PI; 2007–08; graded Outstanding).
-- Faculty of Arts and Human Sciences Teaching Prize, University of Surrey (2012–13).
-- ICEP Prize in International Economics, ISEG (1994).
-
-For complete publications, grants, teaching and supervision, see the downloadable CV and the [publications page]({{ '/publications/' | relative_url }}).
+<div class="photo-credit" aria-label="Photograph: Academia">Photo: Academia Luísa Todi</div>
