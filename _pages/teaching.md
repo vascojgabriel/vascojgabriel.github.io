@@ -47,7 +47,6 @@ html[data-theme="dark"] body {
     font-size: 11px;
   }
 }
-
 </style>
 
 I teach at undergraduate, master's and doctoral levels, particularly in econometrics, time-series and macroeconometric methods, macroeconomics, economic history and research methods. My previous teaching also includes financial econometrics, finance, statistics, mathematics and the history of economic thought.
