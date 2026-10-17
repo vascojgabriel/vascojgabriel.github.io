@@ -22,37 +22,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
-/* Discreet photograph caption */
-body::after {
-  content: "Portal da Gafaria, Setubal";
-  position: fixed;
-  right: 16px;
-  bottom: 48px;
-
-  font-size: 10px;
-  font-weight: 400;
-  letter-spacing: 0.02em;
-
-  color: var(--global-text-color-light);
-  background: var(--global-bg-color);
-  opacity: 0.75;
-
-  padding: 2px 5px;
-  border-radius: 3px;
-
-  pointer-events: none;
-  z-index: 2;
-}
-
-@media (max-width: 600px) {
-  body::after {
-    right: 8px;
-    bottom: 72px;
-    font-size: 9px;
-  }
-}
-
 <style>
 body {
   background-image:
@@ -77,6 +46,23 @@ html[data-theme="dark"] body {
     ),
     url("{{ '/assets/img/portela.jpg' | relative_url }}");
 }
+/* Ordinary caption element, not a pseudo-element */
+.photo-credit {
+  position: fixed;
+  right: 12px;
+  bottom: 50px;
+  z-index: 20;
+  font-size: 10px;
+  line-height: 1.2;
+  color: var(--global-text-color-light);
+  background: var(--global-bg-color);
+  opacity: .78;
+  padding: 2px 5px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+@media(max-width: 600px) { .photo-credit { bottom: 72px; right: 8px; } }
+  
 </style>
 
 I am **Professor of Economics at the University of Victoria**, where I have served as **Chair of the Department of Economics between 2021 and 2026**. My research focuses on econometrics and empirical macroeconomics, including monetary policy identification, DSGE modelling, international macroeconomics, empirical finance and climate econometrics. I also dabble in economic history and musicology in my spare time.
@@ -87,3 +73,5 @@ My current projects investigate monetary policy shocks and identification with h
 
 **Email:** [vgabriel@uvic.ca](mailto:vgabriel@uvic.ca)  
 **Links:** [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [Code & data]({{ '/code/' | relative_url }})
+<div class="photo-credit" aria-label="Photo: Portal da Gafaria, Setúbal">Gafaria</div>
+
