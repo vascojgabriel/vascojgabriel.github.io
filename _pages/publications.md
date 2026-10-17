@@ -10,8 +10,8 @@ nav_order: 3
 body {
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.75),
-      rgba(255, 255, 255, 0.75)
+      rgba(255, 255, 255, 0.65),
+      rgba(255, 255, 255, 0.65)
     ),
     url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
 
