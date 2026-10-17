@@ -27,8 +27,8 @@ latest_posts:
 body {
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.8),
-      rgba(255, 255, 255, 0.8)
+      rgba(255, 255, 255, 0.85),
+      rgba(255, 255, 255, 0.85)
     ),
     url("{{ '/assets/img/portela.jpg' | relative_url }}");
 
@@ -42,8 +42,8 @@ body {
 html[data-theme="dark"] body {
   background-image:
     linear-gradient(
-      rgba(20, 20, 20, 0.8),
-      rgba(20, 20, 20, 0.8)
+      rgba(20, 20, 20, 0.85),
+      rgba(20, 20, 20, 0.85)
     ),
     url("{{ '/assets/img/portela.jpg' | relative_url }}");
 }
