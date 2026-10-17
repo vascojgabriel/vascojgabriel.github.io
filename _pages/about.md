@@ -22,6 +22,37 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+/* Discreet photograph caption */
+body::after {
+  content: "Portal da Gafaria, Setúbal";
+  position: fixed;
+  right: 16px;
+  bottom: 48px;
+
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+
+  color: var(--global-text-color-light);
+  background: var(--global-bg-color);
+  opacity: 0.75;
+
+  padding: 2px 5px;
+  border-radius: 3px;
+
+  pointer-events: none;
+  z-index: 2;
+}
+
+@media (max-width: 600px) {
+  body::after {
+    right: 8px;
+    bottom: 72px;
+    font-size: 9px;
+  }
+}
+
 <style>
 body {
   background-image:
