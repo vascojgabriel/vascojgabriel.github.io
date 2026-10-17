@@ -23,31 +23,15 @@ latest_posts:
   enabled: false
 ---
 
-<style>
-body {
-  background-image:
-    linear-gradient(
-      rgba(255, 255, 255, 0.85),
-      rgba(255, 255, 255, 0.85)
-    ),
-    url("{{ '/assets/img/portela.jpg' | relative_url }}");
-
+<div style="
+  height: 260px;
+  width: 100%;
+  background-image: url('{{ '/assets/img/portela.jpg' | relative_url }}');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
-/* Background when dark mode is enabled */
-html[data-theme="dark"] body {
-  background-image:
-    linear-gradient(
-      rgba(20, 20, 20, 0.85),
-      rgba(20, 20, 20, 0.85)
-    ),
-    url("{{ '/assets/img/portela.jpg' | relative_url }}");
-}
-</style>
+  border-radius: 8px;
+  margin-bottom: 30px;
+"></div>
 
 
 I am **Professor of Economics at the University of Victoria**, where I have served as **Chair of the Department of Economics between 2021 and 2026**. My research focuses on econometrics and empirical macroeconomics, including monetary policy identification, DSGE modelling, international macroeconomics, empirical finance and climate econometrics. I also dabble in economic history and musicology in my spare time.
