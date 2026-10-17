@@ -46,23 +46,30 @@ html[data-theme="dark"] body {
     ),
     url("{{ '/assets/img/portela.jpg' | relative_url }}");
 }
-/* Ordinary caption element, not a pseudo-element */
-.photo-credit {
-  position: fixed;
-  right: 12px;
-  bottom: 50px;
-  z-index: 20;
-  font-size: 10px;
-  line-height: 1.2;
-  color: var(--global-text-color-light);
-  background: var(--global-bg-color);
-  opacity: .78;
-  padding: 2px 5px;
-  border-radius: 2px;
+/* Photograph caption: kept above the fixed bottom footer */
+.gafaria-caption {
+  position: fixed !important;
+  right: 16px !important;
+  bottom: 58px !important;
+  z-index: 9999 !important;
+  color: #303030 !important;
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  padding: 4px 7px;
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.3;
+  white-space: nowrap;
   pointer-events: none;
 }
-@media(max-width: 600px) { .photo-credit { bottom: 72px; right: 8px; } }
-  
+
+@media (max-width: 600px) {
+  .gafaria-caption {
+    right: 9px !important;
+    bottom: 88px !important;
+    font-size: 10px;
+  }
+}
 </style>
 
 I am **Professor of Economics at the University of Victoria**, where I have served as **Chair of the Department of Economics between 2021 and 2026**. My research focuses on econometrics and empirical macroeconomics, including monetary policy identification, DSGE modelling, international macroeconomics, empirical finance and climate econometrics. I also dabble in economic history and musicology in my spare time.
@@ -73,5 +80,6 @@ My current projects investigate monetary policy shocks and identification with h
 
 **Email:** [vgabriel@uvic.ca](mailto:vgabriel@uvic.ca)  
 **Links:** [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [Code & data]({{ '/code/' | relative_url }})
-<div class="photo-credit" aria-label="Photo: Portal da Gafaria, Setúbal">Photo: Portal da Gafaria, Setúbal</div>
+
+<div class="gafaria-caption" aria-label="Portal da Gafaria, Setúbal">Portal da Gafaria, Setúbal</div>
 
