@@ -62,4 +62,4 @@ I am Professor of Economics at the University of Victoria. My research covers ec
 
 The full CV includes research appointments, grants, academic service, supervision and publications. See also [Research]({{ '/research/' | relative_url }}) and [Publications]({{ '/publications/' | relative_url }}).
 
-<div class="photo-credit" aria-label="Photograph: Academia">Photo: Academia Luísa Todi</div>
+<div class="photo-credit" aria-label="Photograph: Academia">Photo: Academia Luísa Todi, Setúbal</div>
