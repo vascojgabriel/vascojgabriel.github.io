@@ -6,6 +6,33 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+body {
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.85),
+      rgba(255, 255, 255, 0.85)
+    ),
+    url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Background when dark mode is enabled */
+html[data-theme="dark"] body {
+  background-image:
+    linear-gradient(
+      rgba(20, 20, 20, 0.85),
+      rgba(20, 20, 20, 0.85)
+    ),
+    url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
+}
+</style>
+
+
 Journal articles and book chapters. Links marked **Replication data/code** or **Replication archive** identify public research packages; archive contents and executable reproducibility have not necessarily been independently checked. 
 
 ## Refereed journal articles
