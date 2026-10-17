@@ -35,8 +35,6 @@ Publication titles link to publisher records; replication and open-access materi
 
 ## Refereed journal articles
 
-## Refereed journal articles
-
 - **[Idle Monetary Policy? Evidence from Monetary Policy Shocks for Pakistan](https://doi.org/10.1016/j.econlet.2026.113207)** (2026), with M. Ali Choudhary. ***Economics Letters***, 268, 113207.  
   [Code & data](https://data.mendeley.com/datasets/bn868kmhd5/2)
 - **[Taking the Highway or the Green Road? Conditional Temperature Forecasts under Alternative SSP Scenarios](https://doi.org/10.1016/j.ijforecast.2026.04.010)** (2026), with Anthoulla Phella and Luis F. Martins. ***International Journal of Forecasting***, published online May 2026.  
@@ -47,7 +45,7 @@ Publication titles link to publisher records; replication and open-access materi
   [Code & data](https://data.mendeley.com/datasets/yv263k5cmv/2)
 - **[Predicting Tail Risks and the Evolution of Temperatures](https://doi.org/10.1016/j.eneco.2023.107286)** (2024), with Anthoulla Phella and Luis F. Martins. ***Energy Economics***, 131, 107286.  
   [Replication files](https://github.com/vascojgabriel/Predicting-Tail-Risks-and-the-Evolution-of-Temperatures) · [Open manuscript](https://eprints.gla.ac.uk/317750/)
-- **[Institutional Arrangements and Inflation Bias: A Dynamic Heterogeneous Panel Approach](https://doi.org/10.1111/jmcb.12935)** (2023), with Ioannis Lazopoulos and Diana Lima. ***Journal of Money***, Credit and Banking, 55, 43–76.  
+- **[Institutional Arrangements and Inflation Bias: A Dynamic Heterogeneous Panel Approach](https://doi.org/10.1111/jmcb.12935)** (2023), with Ioannis Lazopoulos and Diana Lima. ***Journal of Money, Credit and Banking***, 55, 43–76.  
   [Replication files](https://github.com/vascojgabriel/Institutional-Arrangements-and-Inflation-Bias-A-Dynamic-Heterogeneous-Panel-Approach) · [Supplement](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjmcb.12935&file=jmcb12935-sup-0002-SuppMat.pdf)
 - **[Partial Dollarization and Financial Frictions in Emerging Economies](https://doi.org/10.1111/roie.12639)** (2023), with Paul Levine and Bo Yang. ***Review of International Economics***, 31, 609–651.  
   [Replication files](https://github.com/vascojgabriel/Partial-Dollarization-and-Financial-Frictions-in-Emerging-Economies) · [Supplement](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Froie.12639&file=roie12639-sup-0001-supinfo.pdf)
@@ -62,7 +60,7 @@ Publication titles link to publisher records; replication and open-access materi
 - **[Time-Varying Cointegration, Identification and Cointegration Spaces](https://doi.org/10.1515/snde-2012-0022)** (2013), with Luis F. Martins. ***Studies in Nonlinear Dynamics & Econometrics***, 17, 199–209.
 - **[Cointegration Tests under Multiple Regime Shifts: An Application to the Stock Price–Dividend Relationship](https://doi.org/10.1007/s00181-010-0401-8)** (2011), with Luis F. Martins. ***Empirical Economics***, 41, 639–662.
 - **[Assessing Fiscal Sustainability Subject to Policy Changes: A Markov Switching Cointegration Approach](https://doi.org/10.1007/s00181-010-0369-4)** (2011), with Pataaree Sangduan. ***Empirical Economics***, 41, 371–385.
-- **[The Cost Channel Reconsidered: A Comment Using an Identification-Robust Approach](https://doi.org/10.1111/j.1538-4616.2010.00361.x)** (2010), with Luis F. Martins. ***Journal of Money***, Credit and Banking, 42, 1703–1712.  
+- **[The Cost Channel Reconsidered: A Comment Using an Identification-Robust Approach](https://doi.org/10.1111/j.1538-4616.2010.00361.x)** (2010), with Luis F. Martins. ***Journal of Money, Credit and Banking***, 42, 1703–1712.  
   [Replication files](https://github.com/vascojgabriel/The-Cost-Channel-Reconsidered-A-Comment-Using-an-Identification-Robust-Approach)
 - **[An Efficient Test of Fiscal Sustainability](https://doi.org/10.1080/13504850903299610)** (2010), with Pataaree Sangduan. ***Applied Economics Letters***, 17, 1819–1822.
 - **[Soft Landing in a Markov-Switching Economy](https://doi.org/10.1016/j.econlet.2010.01.015)** (2010), with Fernando Alexandre and Pedro Bação. ***Economics Letters***, 107, 169–172.
