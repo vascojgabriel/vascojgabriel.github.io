@@ -21,30 +21,22 @@ html[data-theme="dark"] body {
     linear-gradient(rgba(20,20,20,0.8), rgba(20,20,20,0.8)),
     url("{{ '/assets/img/sjuliao.jpg' | relative_url }}");
 }
-/* Photograph caption: kept above the fixed bottom footer */
-.gafaria-caption {
-  position: fixed !important;
-  right: 16px !important;
-  bottom: 58px !important;
-  z-index: 9999 !important;
+/* Ordinary caption element, not a pseudo-element */
+.photo-credit {
+  position: fixed;
+  right: 12px;
+  bottom: 50px;
+  z-index: 20;
+  font-size: 11px;
+  line-height: 1.2;
   color: rgba(48, 48, 48, 0.55) !important;
   background-color: transparent !important;
-  padding: 4px 7px;
-  border-radius: 3px;
-  font-size: 11px;
-  font-style: italic;
-  font-weight: 400;
-  line-height: 1.3;
-  white-space: nowrap;
+  opacity: .78;
+  padding: 2px 5px;
+  border-radius: 2px;
   pointer-events: none;
 }
-
-@media (max-width: 600px) {
-  .gafaria-caption {
-    right: 9px !important;
-    bottom: 88px !important;
-    font-size: 11px;
-  }
+@media(max-width: 600px) { .photo-credit { bottom: 72px; right: 8px; } }
 }
 </style>
 
