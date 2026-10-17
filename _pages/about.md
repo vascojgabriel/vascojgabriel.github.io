@@ -25,7 +25,7 @@ latest_posts:
 
 /* Discreet photograph caption */
 body::after {
-  content: "Portela";
+  content: "Portal da Gafaria, Setubal";
   position: fixed;
   right: 16px;
   bottom: 48px;
