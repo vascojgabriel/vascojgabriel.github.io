@@ -68,7 +68,7 @@ html[data-theme="dark"] body {
   .gafaria-caption {
     right: 9px !important;
     bottom: 88px !important;
-    font-size: 10px;
+    font-size: 11px;
   }
 }
 </style>
