@@ -119,5 +119,5 @@ Publication titles link to publisher records; replication and open-access materi
 [Research and working papers]({{ '/research/' | relative_url }}) · [Code and data]({{ '/code/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [All GitHub repositories](https://github.com/vascojgabriel?tab=repositories)
 
 
-<div class="photo-credit" aria-label="Photo: Casa das 4 Cabeças, Setúbal">Photo: Casa das 4 Cabeças, Setúbal</div>
+<div class="gafaria-caption" aria-label="Photo: Casa das 4 Cabeças, Setúbal">Photo: Casa das 4 Cabeças, Setúbal</div>
 
