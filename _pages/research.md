@@ -30,6 +30,23 @@ html[data-theme="dark"] body {
     ),
     url("{{ '/assets/img/stacatarina.jpg' | relative_url }}");
 }
+  /* Ordinary caption element, not a pseudo-element */
+.photo-credit {
+  position: fixed;
+  right: 12px;
+  bottom: 50px;
+  z-index: 20;
+  font-size: 10px;
+  line-height: 1.2;
+  color: var(--global-text-color-light);
+  background: var(--global-bg-color);
+  opacity: .78;
+  padding: 2px 5px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+@media(max-width: 600px) { .photo-credit { bottom: 72px; right: 8px; } }
+
 </style>
 
 My research combines econometric methods, structural macroeconomic modelling and empirical applications. The descriptions below summarize research manuscripts and projects in progress; they are not necessarily final published abstracts. 
