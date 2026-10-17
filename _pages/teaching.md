@@ -21,22 +21,31 @@ html[data-theme="dark"] body {
     linear-gradient(rgba(20,20,20,0.75), rgba(20,20,20,0.75)),
     url("{{ '/assets/img/sapal.jpg' | relative_url }}");
 }
-/* Ordinary caption element, not a pseudo-element */
-.photo-credit {
-  position: fixed;
-  right: 12px;
-  bottom: 50px;
-  z-index: 20;
-  font-size: 10px;
-  line-height: 1.2;
+/* Photograph caption: kept above the fixed bottom footer */
+.gafaria-caption {
+  position: fixed !important;
+  right: 16px !important;
+  bottom: 58px !important;
+  z-index: 9999 !important;
   color: rgba(48, 48, 48, 0.55) !important;
   background-color: transparent !important;
-  opacity: .78;
-  padding: 2px 5px;
-  border-radius: 2px;
+  padding: 4px 7px;
+  border-radius: 3px;
+  font-size: 11px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.3;
+  white-space: nowrap;
   pointer-events: none;
 }
-@media(max-width: 600px) { .photo-credit { bottom: 72px; right: 8px; } }
+
+@media (max-width: 600px) {
+  .gafaria-caption {
+    right: 9px !important;
+    bottom: 88px !important;
+    font-size: 10px;
+  }
+}
 </style>
 
 I teach at undergraduate, master's and doctoral levels, particularly in econometrics, time-series and macroeconometric methods, macroeconomics, economic history and research methods. My previous teaching also includes financial econometrics, finance, statistics, mathematics and the history of economic thought.
