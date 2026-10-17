@@ -21,7 +21,8 @@ html[data-theme="dark"] body {
     linear-gradient(rgba(20,20,20,0.8), rgba(20,20,20,0.8)),
     url("{{ '/assets/img/academia.jpg' | relative_url }}");
 }
-/* Photograph caption: kept above the fixed bottom footer */
+
+/* Photograph caption — same styling as About */
 .gafaria-caption {
   position: fixed !important;
   right: 16px !important;
@@ -46,6 +47,7 @@ html[data-theme="dark"] body {
     font-size: 11px;
   }
 }
+
 </style>
 
 **[Download full academic CV (PDF)]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})**
@@ -71,4 +73,4 @@ I am Professor of Economics at the University of Victoria. My research covers ec
 
 The full CV includes research appointments, grants, academic service, supervision and publications. See also [Research]({{ '/research/' | relative_url }}) and [Publications]({{ '/publications/' | relative_url }}).
 
-<div class="gafaria-caption" aria-label="Photograph: Academia">Photo: Academia Luísa Todi, Setúbal</div>
+<div class="gafaria-caption">Photo: Academia Luísa Todi, Setúbal</div>
