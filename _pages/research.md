@@ -10,8 +10,8 @@ nav_order: 2
 body {
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.85),
-      rgba(255, 255, 255, 0.85)
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.8)
     ),
     url("{{ '/assets/img/stacatarina.jpg' | relative_url }}");
 
@@ -25,13 +25,12 @@ body {
 html[data-theme="dark"] body {
   background-image:
     linear-gradient(
-      rgba(20, 20, 20, 0.85),
-      rgba(20, 20, 20, 0.85)
+      rgba(20, 20, 20, 0.8),
+      rgba(20, 20, 20, 0.8)
     ),
     url("{{ '/assets/img/stacatarina.jpg' | relative_url }}");
 }
 </style>
-
 
 My research combines econometric methods, structural macroeconomic modelling and empirical applications. The descriptions below summarize research manuscripts and projects in progress; they are not necessarily final published abstracts. 
 
