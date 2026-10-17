@@ -6,6 +6,32 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+body {
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.85),
+      rgba(255, 255, 255, 0.85)
+    ),
+    url("{{ '/assets/img/academia.jpg' | relative_url }}");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Background when dark mode is enabled */
+html[data-theme="dark"] body {
+  background-image:
+    linear-gradient(
+      rgba(20, 20, 20, 0.85),
+      rgba(20, 20, 20, 0.85)
+    ),
+    url("{{ '/assets/img/academia.jpg' | relative_url }}");
+}
+</style>
+
 **[Download academic CV (PDF)]({{ '/assets/pdf/Vasco_Gabriel_CV_2026.pdf' | relative_url }})**
 
 ## Academic appointments
