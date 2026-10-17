@@ -52,8 +52,8 @@ html[data-theme="dark"] body {
   right: 16px !important;
   bottom: 58px !important;
   z-index: 9999 !important;
-  color: #303030 !important;
-  background-color: rgba(255, 255, 255, 0.92) !important;
+  color: rgba(48, 48, 48, 0.55) !important;
+  background-color: transparent !important;
   padding: 4px 7px;
   border-radius: 3px;
   font-size: 11px;
@@ -81,5 +81,5 @@ My current projects investigate monetary policy shocks and identification with h
 **Email:** [vgabriel@uvic.ca](mailto:vgabriel@uvic.ca)  
 **Links:** [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [Code & data]({{ '/code/' | relative_url }})
 
-<div class="gafaria-caption" aria-label="Portal da Gafaria, Setúbal">Portal da Gafaria, Setúbal</div>
+<div class="gafaria-caption" aria-label="Vanitas, vanitatum et omnia vanitas: Portal da Gafaria, Setúbal">Portal da Gafaria, Setúbal</div>
 
