@@ -10,12 +10,12 @@ nav_order: 3
 body {
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
+      rgba(255, 255, 255, 0.6),
+      rgba(255, 255, 255, 0.6)
     ),
     url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
 
-  background-size: 100% 100%, contain;
+  background-size: 100% 100%, cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -25,8 +25,8 @@ body {
 html[data-theme="dark"] body {
   background-image:
     linear-gradient(
-      rgba(20, 20, 20, 0.75),
-      rgba(20, 20, 20, 0.75)
+      rgba(20, 20, 20, 0.6),
+      rgba(20, 20, 20, 0.6)
     ),
     url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
 }
