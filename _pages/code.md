@@ -71,4 +71,4 @@ Publisher or institutional appendices are linked beside the corresponding papers
 
 *Public availability does not imply that every archive has been independently tested for computational reproducibility. The Pakistan replication package excludes underlying proprietary central-bank forecasts.*
 
-<div class="photo-credit" aria-label="Photo: São Julião">Photo: São Julião, Setúbal</div>
+<div class="gafaria-caption">Photo: São Julião, Setúbal</div>
