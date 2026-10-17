@@ -9,37 +9,41 @@ nav_order: 4
 <style>
 body {
   background-image:
-    linear-gradient(
-      rgba(255, 255, 255, 0.75),
-      rgba(255, 255, 255, 0.75)
-    ),
+    linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)),
     url("{{ '/assets/img/sapal.jpg' | relative_url }}");
-
   background-size: 100% 100%, contain;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
-/* Background when dark mode is enabled */
 html[data-theme="dark"] body {
   background-image:
-    linear-gradient(
-      rgba(20, 20, 20, 0.75),
-      rgba(20, 20, 20, 0.75)
-    ),
+    linear-gradient(rgba(20,20,20,0.75), rgba(20,20,20,0.75)),
     url("{{ '/assets/img/sapal.jpg' | relative_url }}");
 }
+/* Ordinary caption element, not a pseudo-element */
+.photo-credit {
+  position: fixed;
+  right: 12px;
+  bottom: 50px;
+  z-index: 20;
+  font-size: 10px;
+  line-height: 1.2;
+  color: var(--global-text-color-light);
+  background: var(--global-bg-color);
+  opacity: .78;
+  padding: 2px 5px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+@media(max-width: 600px) { .photo-credit { bottom: 72px; right: 8px; } }
 </style>
 
+I teach at undergraduate, master's and doctoral levels, particularly in econometrics, time-series and macroeconometric methods, macroeconomics, economic history and research methods. My previous teaching also includes financial econometrics, finance, statistics, mathematics and the history of economic thought.
 
-I teach and supervise at undergraduate, master's and doctoral levels, with a focus on econometrics, time-series and macroeconometric methods, macroeconomics, economic history and empirical research methods. Earlier teaching also includes financial econometrics, financial theory, mathematics, statistics and history of economic thought.
+## University of Victoria courses
 
-## Courses at the University of Victoria
-
-The terms below are historical teaching assignments recorded in the 2026 UVic CV, not a current timetable.
-
-| Course | Terms |
+| Course | Teaching terms |
 | --- | --- |
 | ECON 365 | Fall 2022, 2023 and 2025 |
 | ECON 327 | Spring and Summer 2024 |
@@ -55,10 +59,12 @@ The terms below are historical teaching assignments recorded in the 2026 UVic CV
 - **CIMS Easter School on DSGE Modelling for Emerging Economies**, 2015–20.
 - **DSGE Modelling and Estimation**, Bank of Portugal, 2016–18.
 - **Workshop on DSGE Modelling**, National Institute of Public Finance and Policy, India, 2010.
-- **Guest Professor**, University of São Paulo, since 2020 (according to June 2026 CV).
+- **Guest Professor**, University of São Paulo, from 2020.
 
-## Supervision
+## Supervision and teaching recognition
 
-I have supervised numerous doctoral, master's and undergraduate dissertations and research projects, including more than 30 master's students and more than 20 undergraduate projects as recorded in the June 2026 short CV. Doctoral supervision and examining appointments are detailed in the [full CV]({{ '/cv/' | relative_url }}).
+I have supervised doctoral, master's and undergraduate research projects, including more than 30 master's dissertations and more than 20 undergraduate projects. Further details appear in the [full CV]({{ '/cv/' | relative_url }}).
 
-I received the **Faculty of Arts and Human Sciences Teaching Prize** at the University of Surrey in 2012–13.
+**Faculty of Arts and Human Sciences Teaching Prize**, University of Surrey, 2012–13.
+
+<div class="photo-credit" aria-label="Photograph: Sapal">Photo: Fonte do Sapal, Setúbal</div>
