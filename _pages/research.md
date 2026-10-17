@@ -110,3 +110,5 @@ Alongside my work in economics, I pursue an independent research program on the 
 
 The programme combines archival research, music bibliography, and historical musicology. Current work focuses on documenting and cataloguing dispersed collections, developing a bilingual digital inventory, and investigating the survival, publication, circulation, and reception of musical and ethnographic sources. 
 
+<div class="photo-credit" aria-label="Photo: Rua de Santa Catarina, Setúbal">Photo: Rua de Santa Catarina, Setúbal</div>
+
