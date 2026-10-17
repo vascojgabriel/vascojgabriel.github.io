@@ -15,7 +15,7 @@ body {
     ),
     url("{{ '/assets/img/4cabecas.jpg' | relative_url }}");
 
-  background-size: cover;
+  background-size: 100% 100%, cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
