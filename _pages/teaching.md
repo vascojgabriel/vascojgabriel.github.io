@@ -6,6 +6,33 @@ nav: true
 nav_order: 4
 ---
 
+<style>
+body {
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.85),
+      rgba(255, 255, 255, 0.85)
+    ),
+    url("{{ '/assets/img/sapal.jpg' | relative_url }}");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Background when dark mode is enabled */
+html[data-theme="dark"] body {
+  background-image:
+    linear-gradient(
+      rgba(20, 20, 20, 0.85),
+      rgba(20, 20, 20, 0.85)
+    ),
+    url("{{ '/assets/img/sapal.jpg' | relative_url }}");
+}
+</style>
+
+
 I teach and supervise at undergraduate, master's and doctoral levels, with a focus on econometrics, time-series and macroeconometric methods, macroeconomics, economic history and empirical research methods. Earlier teaching also includes financial econometrics, financial theory, mathematics, statistics and history of economic thought.
 
 ## Courses at the University of Victoria
