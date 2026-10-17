@@ -38,8 +38,8 @@ html[data-theme="dark"] body {
   z-index: 20;
   font-size: 10px;
   line-height: 1.2;
-  color: var(--global-text-color-light);
-  background: var(--global-bg-color);
+  color: rgba(48, 48, 48, 0.55) !important;
+  background-color: transparent !important;
   opacity: .78;
   padding: 2px 5px;
   border-radius: 2px;
