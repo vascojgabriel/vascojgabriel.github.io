@@ -11,7 +11,7 @@ body {
   background-image:
     linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)),
     url("{{ '/assets/img/sapal.jpg' | relative_url }}");
-  background-size: 100% 100%, contain;
+  background-size: 100% 100%, cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -67,4 +67,4 @@ I have supervised doctoral, master's and undergraduate research projects, includ
 
 **Faculty of Arts and Human Sciences Teaching Prize**, University of Surrey, 2012–13.
 
-<div class="photo-credit" aria-label="Photograph: Sapal">Photo: Fonte do Sapal, Setúbal</div>
+<div class="photo-credit" aria-label="Photo: Fonte do Sapal, Setúbal">Photo: Fonte do Sapal, Setúbal</div>
