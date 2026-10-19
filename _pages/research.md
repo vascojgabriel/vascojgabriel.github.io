@@ -69,6 +69,7 @@ See the [complete publication list with DOI links]({{ '/publications/' | relativ
 *With Maryam Mirfatah.*
 
 This paper constructs an empirical sanctions measurement system and estimates a small-open-economy DSGE model of Iran. A persistent sanctions state is disciplined by a quarterly chronology and auxiliary indices, while the structural model separates constraints on oil production, export access, usable oil revenue, imports and investment. Historical decompositions and counterfactuals distinguish the external resource shock from domestic transmission mechanisms.
+[Code & data](https://github.com/vascojgabriel/replication-package-sanctions)
 
 ### Climate Change: Across Time and Frequencies
 *With Luís Aguiar-Conraria, Luis F. Martins and Anthoulla Phella.*
