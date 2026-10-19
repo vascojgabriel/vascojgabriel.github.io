@@ -9,7 +9,7 @@ subtitle: Professor of Economics, University of Victoria
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Department of Economics</p>
     <p>University of Victoria</p>
