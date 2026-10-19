@@ -58,7 +58,6 @@ html[data-theme="dark"] body {
 }
 
 </style>
-
 My research combines econometric methods, structural macroeconomic modelling and empirical applications. The descriptions below summarize research manuscripts and projects in progress; they are not necessarily final published abstracts. 
 
 ## Publications
