@@ -47,9 +47,7 @@ html[data-theme="dark"] body {
     font-size: 11px;
   }
 }
-
 </style>
-
 Publicly available replication materials associated with my publications. Full citations, coauthors and DOI links appear on the [Publications page]({{ '/publications/' | relative_url }}).
 
 ## Replication files
