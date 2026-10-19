@@ -56,7 +56,6 @@ html[data-theme="dark"] body {
     font-size: 11px;
   }
 }
-
 </style>
 Publication titles link to publisher records; replication and open-access materials are linked where available. 
 
