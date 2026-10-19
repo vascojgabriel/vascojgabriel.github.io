@@ -22,8 +22,8 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
-/* Force profile photograph to be circular */
+<style>
+/* Circular profile photograph */
 .profile img {
   width: 100% !important;
   aspect-ratio: 1 / 1 !important;
@@ -31,8 +31,6 @@ latest_posts:
   object-fit: cover !important;
   border-radius: 50% !important;
 }
-
-<style>
 body {
   background-image:
     linear-gradient(
