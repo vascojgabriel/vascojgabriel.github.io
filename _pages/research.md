@@ -65,11 +65,11 @@ See the [complete publication list with DOI links]({{ '/publications/' | relativ
 
 ## Manuscripts under review
 
-### Measuring Sanctions and Their Macroeconomic Transmission
+### Informality and the Inverted Aggregate Demand Logic
 *With Maryam Mirfatah.*
 
-This paper constructs an empirical sanctions measurement system and estimates a small-open-economy DSGE model of Iran. A persistent sanctions state is disciplined by a quarterly chronology and auxiliary indices, while the structural model separates constraints on oil production, export access, usable oil revenue, imports and investment. Historical decompositions and counterfactuals distinguish the external resource shock from domestic transmission mechanisms.
-[Code & data](https://github.com/vascojgabriel/replication-package-sanctions)
+We develop a model with limited asset market participation (LAMP) and informality: when a large share of households consumes its current income, a higher real interest rate can raise rather than lower aggregate demand, inverting the usual logic of monetary policy. We show that informality separates this single boundary into two thresholds. Informal income accruing to hand-to-mouth households lowers the share at which the consumption of savers stops moving with aggregate demand. Expenditure switching towards informal goods raises the share at which demand stops falling when the policy rate rises.
+[Code & data](https://github.com/vascojgabriel/informality-iadl-replication)
 
 ### Climate Change: Across Time and Frequencies
 *With Luís Aguiar-Conraria, Luis F. Martins and Anthoulla Phella.*
